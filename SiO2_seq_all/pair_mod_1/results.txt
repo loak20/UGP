@@ -1,0 +1,12 @@
+Step: 1
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.778 Å
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:64, Tag:64) - O(Idx:330, Tag:330)
+Group 2: Si(Idx:246, Tag:246) - O(Idx:336, Tag:336)
+------------------------------------------------------
+E_prev_step: -2866.30536 eV
+E_product:   -2851.03589 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.10920 eV
+Cumulative dE vs Initial: 1.10920 eV

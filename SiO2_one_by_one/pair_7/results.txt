@@ -1,0 +1,12 @@
+Step ID: 7
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 4.793 Å
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:214) - O(Tag:358) - H(Tag:359)
+Group 2 (Del O):  Si(Tag:291) - O(Tag:381) - H(Tag:383)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2847.78671 eV
+E_H2O:           -14.16027 eV
+Step dE:         4.35880 eV
+(Note: dE is calculated independently from the base structure)

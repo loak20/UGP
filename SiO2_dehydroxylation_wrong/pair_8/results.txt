@@ -1,0 +1,6 @@
+Pair ID: 8
+Reaction: Si291-OH + HO-Si288 -> Si-O-Si + H2O
+E_reactant: -2866.30022 eV
+E_product:  -2849.64445 eV
+E_H2O:      -14.16027 eV
+Reaction Energy (dE): 2.49550 eV

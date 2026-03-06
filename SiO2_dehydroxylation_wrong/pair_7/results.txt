@@ -1,0 +1,6 @@
+Pair ID: 7
+Reaction: Si161-OH + HO-Si132 -> Si-O-Si + H2O
+E_reactant: -2866.30022 eV
+E_product:  -2850.94335 eV
+E_H2O:      -14.16027 eV
+Reaction Energy (dE): 1.19660 eV

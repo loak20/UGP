@@ -1,0 +1,166 @@
+Step: 1
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.778 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:64, Tag:64) - O(Idx:330, Tag:330)
+Group 2: Si(Idx:246, Tag:246) - O(Idx:336, Tag:336)
+------------------------------------------------------
+E_prev_step: -2866.30536 eV
+E_product:   -2851.03589 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.10920 eV
+Cumulative dE vs Initial: 1.10920 eV
+
+
+Step: 2
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.918 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:161, Tag:161) - O(Idx:337, Tag:340)
+Group 2: Si(Idx:132, Tag:132) - O(Idx:351, Tag:354)
+------------------------------------------------------
+E_prev_step: -2851.03589 eV
+E_product:   -2835.37985 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.49576 eV
+Cumulative dE vs Initial: 2.60497 eV
+
+
+Step: 3
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.936 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:225, Tag:225) - O(Idx:331, Tag:332)
+Group 2: Si(Idx:246, Tag:246) - O(Idx:335, Tag:338)
+------------------------------------------------------
+E_prev_step: -2835.37985 eV
+E_product:   -2820.86781 eV
+E_H2O:       -14.16027 eV
+Step dE:     0.35176 eV
+Cumulative dE vs Initial: 2.95673 eV
+
+
+Step: 4
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.924 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:74, Tag:74) - O(Idx:228, Tag:228)
+Group 2: Si(Idx:202, Tag:202) - O(Idx:35, Tag:35)
+------------------------------------------------------
+E_prev_step: -2820.86781 eV
+E_product:   -2806.14391 eV
+E_H2O:       -14.16027 eV
+Step dE:     0.56363 eV
+Cumulative dE vs Initial: 3.52036 eV
+
+
+Step: 5
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.794 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:10, Tag:10) - O(Idx:143, Tag:144)
+Group 2: Si(Idx:172, Tag:173) - O(Idx:282, Tag:283)
+------------------------------------------------------
+E_prev_step: -2806.14391 eV
+E_product:   -2790.06964 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.91400 eV
+Cumulative dE vs Initial: 5.43436 eV
+
+
+Step: 6
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.907 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:289, Tag:291) - O(Idx:367, Tag:382)
+Group 2: Si(Idx:286, Tag:288) - O(Idx:381, Tag:396)
+------------------------------------------------------
+E_prev_step: -2790.06964 eV
+E_product:   -2775.33762 eV
+E_H2O:       -14.16027 eV
+Step dE:     0.57174 eV
+Cumulative dE vs Initial: 6.00610 eV
+
+
+Step: 7
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.915 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:213, Tag:214) - O(Idx:343, Tag:358)
+Group 2: Si(Idx:289, Tag:291) - O(Idx:366, Tag:381)
+------------------------------------------------------
+E_prev_step: -2775.33762 eV
+E_product:   -2756.99602 eV
+E_H2O:       -14.16027 eV
+Step dE:     4.18134 eV
+Cumulative dE vs Initial: 10.18743 eV
+
+
+Step: 8
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.985 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:33, Tag:33) - O(Idx:330, Tag:342)
+Group 2: Si(Idx:97, Tag:98) - O(Idx:332, Tag:344)
+------------------------------------------------------
+E_prev_step: -2756.99602 eV
+E_product:   -2741.28512 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.55062 eV
+Cumulative dE vs Initial: 11.73806 eV
+
+
+Step: 9
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.887 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:159, Tag:160) - O(Idx:314, Tag:320)
+Group 2: Si(Idx:96, Tag:97) - O(Idx:317, Tag:323)
+------------------------------------------------------
+E_prev_step: -2741.28512 eV
+E_product:   -2725.80576 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.31909 eV
+Cumulative dE vs Initial: 13.05714 eV
+
+
+Step: 10
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.922 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:171, Tag:172) - O(Idx:316, Tag:325)
+Group 2: Si(Idx:257, Tag:258) - O(Idx:249, Tag:250)
+------------------------------------------------------
+E_prev_step: -2725.80576 eV
+E_product:   -2710.05280 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.59268 eV
+Cumulative dE vs Initial: 14.64982 eV
+
+
+Step: 11
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 2.190 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:191, Tag:192) - O(Idx:291, Tag:294)
+Group 2: Si(Idx:55, Tag:56) - O(Idx:184, Tag:185)
+------------------------------------------------------
+E_prev_step: -2710.05280 eV
+E_product:   -2690.89700 eV
+E_H2O:       -14.16027 eV
+Step dE:     4.99554 eV
+Cumulative dE vs Initial: 19.64536 eV
+
+
+Step: 12
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 2.506 A
+--- Reacting Atom Indices (0-based in current step) ---
+Group 1: Si(Idx:215, Tag:217) - O(Idx:35, Tag:36)
+Group 2: Si(Idx:73, Tag:74) - O(Idx:19, Tag:19)
+------------------------------------------------------
+E_prev_step: -2690.89700 eV
+E_product:   -2672.77213 eV
+E_H2O:       -14.16027 eV
+Step dE:     3.96459 eV
+Cumulative dE vs Initial: 23.60995 eV

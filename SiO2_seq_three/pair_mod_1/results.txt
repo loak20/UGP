@@ -1,0 +1,8 @@
+Step: 1
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist: 1.780 Å
+E_prev_step: -2866.30370 eV
+E_product:   -2851.03338 eV
+E_H2O:       -14.16027 eV
+Step dE:     1.11005 eV
+Cumulative dE vs Initial: 1.11005 eV

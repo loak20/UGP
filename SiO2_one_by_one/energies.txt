@@ -1,0 +1,166 @@
+Step ID: 1
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.778 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:64) - O(Tag:330) - H(Tag:331)
+Group 2 (Del O):  Si(Tag:246) - O(Tag:336) - H(Tag:337)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2851.03475 eV
+E_H2O:           -14.16027 eV
+Step dE:         1.11077 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 2
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.949 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:161) - O(Tag:340) - H(Tag:349)
+Group 2 (Del O):  Si(Tag:132) - O(Tag:354) - H(Tag:355)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2850.94304 eV
+E_H2O:           -14.16027 eV
+Step dE:         1.20247 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 3
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.843 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:225) - O(Tag:332) - H(Tag:335)
+Group 2 (Del O):  Si(Tag:246) - O(Tag:338) - H(Tag:339)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2852.20061 eV
+E_H2O:           -14.16027 eV
+Step dE:         -0.05509 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 4
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.851 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:74) - O(Tag:228) - H(Tag:306)
+Group 2 (Del O):  Si(Tag:202) - O(Tag:35) - H(Tag:319)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2851.76864 eV
+E_H2O:           -14.16027 eV
+Step dE:         0.37688 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 5
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.769 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:10) - O(Tag:144) - H(Tag:308)
+Group 2 (Del O):  Si(Tag:173) - O(Tag:283) - H(Tag:311)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2850.76813 eV
+E_H2O:           -14.16027 eV
+Step dE:         1.37738 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 6
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.989 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:291) - O(Tag:382) - H(Tag:384)
+Group 2 (Del O):  Si(Tag:288) - O(Tag:396) - H(Tag:398)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2849.64597 eV
+E_H2O:           -14.16027 eV
+Step dE:         2.49954 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 7
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 4.793 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:214) - O(Tag:358) - H(Tag:359)
+Group 2 (Del O):  Si(Tag:291) - O(Tag:381) - H(Tag:383)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2847.78671 eV
+E_H2O:           -14.16027 eV
+Step dE:         4.35880 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 8
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 2.036 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:33) - O(Tag:342) - H(Tag:343)
+Group 2 (Del O):  Si(Tag:98) - O(Tag:344) - H(Tag:345)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2850.47273 eV
+E_H2O:           -14.16027 eV
+Step dE:         1.67278 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 9
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.817 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:160) - O(Tag:320) - H(Tag:321)
+Group 2 (Del O):  Si(Tag:97) - O(Tag:323) - H(Tag:324)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2851.25527 eV
+E_H2O:           -14.16027 eV
+Step dE:         0.89025 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 10
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 1.952 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:172) - O(Tag:325) - H(Tag:326)
+Group 2 (Del O):  Si(Tag:258) - O(Tag:250) - H(Tag:356)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2850.69220 eV
+E_H2O:           -14.16027 eV
+Step dE:         1.45332 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 11
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 2.188 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:192) - O(Tag:294) - H(Tag:375)
+Group 2 (Del O):  Si(Tag:56) - O(Tag:185) - H(Tag:376)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2848.02595 eV
+E_H2O:           -14.16027 eV
+Step dE:         4.11956 eV
+(Note: dE is calculated independently from the base structure)
+
+
+Step ID: 12
+Reaction: Si-OH + HO-Si -> Si-O-Si + H2O
+Initial Pair Dist (Calc): 3.740 A
+--- Reacting Atom Tags ---
+Group 1 (Kept O): Si(Tag:217) - O(Tag:36) - H(Tag:305)
+Group 2 (Del O):  Si(Tag:74) - O(Tag:19) - H(Tag:307)
+------------------------------------------------------
+E_Base_Reactant: -2866.30579 eV
+E_Product:       -2848.43761 eV
+E_H2O:           -14.16027 eV
+Step dE:         3.70791 eV
+(Note: dE is calculated independently from the base structure)

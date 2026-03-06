@@ -1,0 +1,6 @@
+Pair ID: 6
+Reaction: Si33-OH + HO-Si98 -> Si-O-Si + H2O
+E_reactant: -2866.30022 eV
+E_product:  -2850.46858 eV
+E_H2O:      -14.16027 eV
+Reaction Energy (dE): 1.67137 eV
