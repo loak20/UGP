@@ -1,6 +1,0 @@
-Pair ID: 4
-Reaction: Si225-OH + HO-Si258 -> Si-O-Si + H2O
-E_reactant: -2866.30022 eV
-E_product:  -2850.80299 eV
-E_H2O:      -14.16027 eV
-Reaction Energy (dE): 1.33696 eV
