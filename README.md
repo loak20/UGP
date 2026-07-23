@@ -5,7 +5,7 @@ This repository contains the codes, scripts, and simulation workflows developed 
 
 The repository includes:
 - ASE + MACE example scripts
-- SiO2 urface dehydroxylation workflows done one by one, sequentially and recursively.
+- SiO2 Surface dehydroxylation workflows done one by one, sequentially and recursively.
 - Melt–quench molecular dynamic simulations
 - Torch-Sim-atomsitic implementation and transition state exploration attempts (error prone and needs fixing)
 - yaml files containing the packages used for the conda environment 
